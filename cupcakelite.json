@@ -1,1 +1,1 @@
-{"name":"CupCake Lite","vendorId":"0xFEED","productId":"0x7755","matrix":{"rows":3,"cols":2},"layouts":{"keymap":[["0,0","0,1"]]}}
+{"name":"CupCake Lite","vendorId":"0xFEED","productId":"0x7755","matrix":{"rows":1,"cols":3},"layouts":{"keymap":[["0,0","0,1"]]}}
